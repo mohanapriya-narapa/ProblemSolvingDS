@@ -20,7 +20,7 @@ for(int x:nums)
 		{
 			i--;
 		}
-		if(j>0)
+		if(i>=0)
 		{
 
 			while(j>=0 && nums[j]<=nums[i])
